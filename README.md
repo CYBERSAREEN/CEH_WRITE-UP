@@ -154,7 +154,7 @@ Each report follows this structure:
 
 ```bash
 # Clone this repository
-git clone https://github.com/YourUsername/REPORTS_DVWA-BWAPP_POC.git
+git clone https://github.com/CYBERSAREEN/REPORTS_DVWA-BWAPP_POC.git
 cd REPORTS_DVWA-BWAPP_POC
 
 # Run DVWA with Docker
@@ -181,7 +181,7 @@ docker run -d --name bwapp -p 8080:80 raesene/bwapp
 **Vedant Sareen**
 B.Tech CSE (Cybersecurity) — Chitkara University, Punjab
 📧 securecybernetics@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/YourUsername)
+🔗 [LinkedIn](https://linkedin.com/in/sareen-cybersecurity-477180ved) · [GitHub](https://github.com/CYBERSAREEN)
 
 ---
 
